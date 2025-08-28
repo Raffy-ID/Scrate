@@ -1,0 +1,5 @@
+{
+  "name": "Scrate",
+  "description": "A powerful translation tool utilizing DeepL, Google Translate, and Gemini APIs. Instantly translate text between dozens of languages with a clean, modern interface.",
+  "requestFramePermissions": []
+}
